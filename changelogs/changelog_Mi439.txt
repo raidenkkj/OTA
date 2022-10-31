@@ -10,6 +10,8 @@ Device maintainer: RaidenIshigami
 
 • Synced to the latest cherish source
 
+• Add pocket lock
+
 =====14th october 2022======
 
 • Cleanup commit history
