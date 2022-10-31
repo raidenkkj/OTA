@@ -2,6 +2,13 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Mi439
 Device maintainer: RaidenIshigami
+=====31th october 2022======
+
+• Miui camera removed
+
+• Synced with the latest dt changes
+
+• Synced to the latest cherish source
 
 =====14th october 2022======
 
