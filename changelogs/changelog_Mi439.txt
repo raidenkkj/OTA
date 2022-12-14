@@ -6,6 +6,8 @@ Device maintainer: RaidenIshigami
 
 • Remove some boring Google apps in GApps variant.
 
+• Upstream kernel
+
 • Synced to the latest cherish source
 
 =====31th october 2022======
