@@ -2,6 +2,12 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Mi439
 Device maintainer: RaidenIshigami
+=====14th december 2022======
+
+• Remove some boring Google apps in GApps variant.
+
+• Synced to the latest cherish source
+
 =====31th october 2022======
 
 • Miui camera removed
