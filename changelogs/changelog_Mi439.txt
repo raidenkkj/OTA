@@ -2,7 +2,7 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Mi439
 Device maintainer: RaidenIshigami
-=====14th december 2022======
+=====03th january 2023======
 
 • Remove some boring Google apps in GApps variant.
 
