@@ -2,9 +2,11 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Mi439
 Device maintainer: RaidenIshigami
-=====03th february 2023======
+=====3rd february 2023======
 
 • Remove some boring Google apps in GApps variant.
+
+• Gapps variant contains the mini gapps
 
 • Upstream kernel
 
