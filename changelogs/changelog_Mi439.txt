@@ -8,6 +8,8 @@ Device maintainer: RaidenIshigami
 
 • Camera aperture commit deleted
 
+• Bring back separate wifi & data QS tiles
+
 =====10th february 2023======
 
 • Synced to the latest cherish source
