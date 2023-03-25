@@ -2,6 +2,14 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Mi439
 Device maintainer: RaidenIshigami
+=====26th march 2023======
+
+• Initial build of version 4.6
+
+• Sync with the latest source changes
+
+• Fix camera delay
+
 =====16th february 2023======
 
 • Synced to the latest cherish source
