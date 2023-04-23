@@ -1,0 +1,9 @@
+Highlights & Device Specific Changes
+Build type: Monthly
+Device: Redmi Note 5 Pro
+Device maintainer: ARIJIT SAHA
+
+=====17 April 2023======
+
+• Synced with latest cherish 4.7 source
+• Others are same as previous changelog

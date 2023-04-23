@@ -1,0 +1,26 @@
+{
+        "response": [
+		{
+                        "maintainer": "Dhruv00",
+                        "oem": "Realme",
+                        "device": "Realme 9 SE 5g",
+                        "filename": "Cherish-OS-v4.7-20230413-0659-RMX3461-OFFICIAL-Gapps.zip",
+                        "download": "https://sourceforge.net/projects/cherish-os/files/device/RMX3461/Cherish-OS-v4.7-20230413-0659-RMX3461-OFFICIAL-Gapps.zip/download",
+                        "timestamp": 1681369072,
+                        "md5": "5beb14c3195b7abf5b79b936cfde5938",
+                        "sha256": "1597e7527812f6485f87596eaebfb43b6f53189b9ea95b921e71188c7c19a026",
+                        "size": 2281730902,
+                        "version": 4.7,
+                        "buildtype": "Releases",
+                        "forum": "https://t.me/cherishOS",
+                        "gapps": "",
+                        "firmware": "",
+                        "modem": "",
+                        "bootloader": "",
+                        "paypal": "",
+                        "telegram": "https://t.me/realme9se",
+                        "dt": "",
+                        "common-dt": "",
+                        "kernel": ""
+                }
+     ]
