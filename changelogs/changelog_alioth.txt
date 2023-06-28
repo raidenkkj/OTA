@@ -3,19 +3,13 @@ Build type: Monthly
 Device: Redmi K40/Poco F3
 Device maintainer: hungphan2001 
 
-=====13 Apr 2023======
+=====27 June 2023======
 
-- Merged April security patch
-- Added blur toggle to Display options
-- Fixed QS Lag  
-- Fixed: "Clear All" recent app screen loop bug 
-- Fixed FC RecordingService in GameSpace 
-- Fixed battery color on QS for circle battery styles 
-- Dismiss screenshot window on touch outside
-- Enabled Partial Screensharing 
-- Reduced keyguard indication text padding 
-- Redesigned lockscreen bottom buttons 
-- Updated to various icons
+Source Changelog:
+- Completed rebasing source 
+- Merged June security patch
+- Fixed some of the problems
+- Temporarily removed some features
 - Improved the system
 - Added some new customizations
 

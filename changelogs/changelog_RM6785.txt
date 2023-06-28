@@ -4,6 +4,32 @@ Device: Realme 6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)
 Device maintainer: ꪖ​ꪀ𝘴ꫝ|邪惡的 (EvilAnsh)
 Required firmware: Latest
 
+===== 2023.05.11 =====
+• Synced Latest CherishOS v4.8 changes
+• May ASB (android-13.0.0_r44)
+• 4.14.314 Blaze+ kernel
+• QS Styles improved
+• Replaced lockscreen icons with two-tone icons 
+• Added Statusbar clock background chip styles 
+• pocket mode: Update style to latest OOS specs 
+• Fixed blur intensity in lockscreen
+• PixelPropsUtils: Spoof ROG Phone 3 for FIFA Mobile 
+• Fixed google restore thanks @EvolutionX
+• Improved QS notification expansion animation 
+• Improved the system
+• Misc. Fixes and Improvements
+
+===== 2023.04.29
+• Synced Latest CherishOS v4.7.5 changes
+• April ASB (android-13.0.0_r41)
+• Upstreamed kernel to 4.14.314
+• Switched to Blaze+ kernel
+• Remove some useless doze overlays
+• Force enabled LTE Carrier Aggregation (CA)
+    ◦ It won't show the 4G+ icon on the status bar
+    ◦ Use NetMonster app to check CA
+• Misc. Fixes and Improvements
+
 ===== 2023.04.13 =====
 • Synced Latest CherishOS v4.7 changes
 • Updated to April security patch

@@ -2,18 +2,22 @@ Highlights & Device Specific Changes:
 Device: Redmi K40S/Poco F4 5G
 Device maintainer: HDzungx
 
-===== Apr 05, 2023 ======
+===== May 14, 2023 ======
 
 Changelog:
-- Fix nfc for some devices
-- Synced latest cherish v4.7 source changes
-- Updated to April security patch
+- Add BatteryBar
+- Add Block Sensor
+- Add StatusBarIcon
+- Add CPUInfoOverlay
+- Addressed Some Wakelocks
+- Limit AOD & ambient display refresh rate to 60Hz
+- Debloat GApps
+- Synced with latest cherish source changes
 - Misc. Fixes and Improvement
+- Others...
 
 Note:
-- Skkk TWRP Recommended 
 - OTA Support
-- Fw included
 - Dolby Included
 - MiuiCam (Leica) Included
 
