@@ -2,6 +2,12 @@ Highlights & Device Specific Changes:
 Build type: Monthly
 Device: Mi439
 Device maintainer: RaidenIshigami
+=====28th june 2023======
+
+• Initial build of version 4.9
+• GApps version is available this time
+• LTE CA working fine
+
 =====26th march 2023======
 
 • Initial build of version 4.6
